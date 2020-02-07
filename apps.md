@@ -1,0 +1,44 @@
+- yay / yet another package manager for manjaro 
+- android-tools / for messing around with android custom roms
+- arandr / for managin multi monitors in linux
+- audacity / editing audio
+- awesome / it's awesome 
+- blender / 3D, Viedo Editing and lots of other stuff
+- blueman / bluetooth manager
+- calibre / for reading and editing books
+- docker
+- docker-compose
+- expressvpn
+- ffmpeg
+- firefox / yes
+- gimp
+- git
+- google-chrome / no
+- gparted / any better parition manager?
+- i3lock / for locking my machine
+- inkscape / never used it 
+- jdk8-openjdk / i'll need it
+- minecraft-launcher
+- mongodb-tools-bin
+- network-manager-applet
+- networkmanager
+- networkmanager-openconnect
+- networkmanager-openvpn
+- nodejs
+- nordvpn-bin 
+- npm 
+- pdftk
+- persepolis
+- postman-bin / no
+- rofi
+- shadowsocks
+- skype-desktop-bin
+- skypeforlinux-preview-bin
+- slack-desktop
+- telegram-desktop
+- terminator
+- vim
+- visual-studio-code-bin
+- vlc
+- yarn
+- zsh
