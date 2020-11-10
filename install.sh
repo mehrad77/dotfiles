@@ -6,7 +6,8 @@
 #  -n avoids symlinking a symlink (same as -h for other versions of ln)
 
 ln -sfn ~/dotfiles/.gitconfig ~/.gitconfig
-
+ln -sfn ~/dotfiles/.fonts ~/.fonts
+ln -sfn ~/dotfiles/.wallpapers ~/Pictures/wallpapers
 
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh.d/themes/powerlevel10k
 ln -sfn ~/dotfiles/.zshrc ~/.zshrc
