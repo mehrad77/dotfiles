@@ -8,6 +8,8 @@
 ln -sfn ~/dotfiles/.gitconfig ~/.gitconfig
 ln -sfn ~/dotfiles/.fonts ~/.fonts
 ln -sfn ~/dotfiles/.wallpapers ~/Pictures/wallpapers
+ln -sfn ~/dotfiles/.config/awesome/ ~/.config/awesome 
+ln -sfn ~/dotfiles/bin/ ~/bin 
 
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh.d/themes/powerlevel10k
 ln -sfn ~/dotfiles/.zshrc ~/.zshrc
