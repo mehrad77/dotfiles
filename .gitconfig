@@ -1,0 +1,18 @@
+[alias]
+	i = init
+	s = status
+	p = push
+	a = add
+	c = commit -m
+	b = branch
+
+	ra = remote add
+	po = push origin
+	co = checkout
+	
+	pom = push origin master
+
+# IF YOU WANY YO USE MY DOTFILE, DON'T FORGET TO CHANGE THESE LINES
+[user]
+	email = mehrad@protonmail.com
+	name = Mehrad Rousta
