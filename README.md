@@ -2,21 +2,8 @@
 
 I'm just trying to archive my config so when I have to do it again, it won't be such a pain.
 
-## .Configs
+## How To
 
-### awesome
-See [app.md](app.md)
-### rofi
-See [app.md](app.md)
+- Clone the repo to `~/dotfiles`.
+- Excute the [install.sh] to sync the files.
 
-## Fonts
-See [.fonts](.fonts)
-
-## Bin directory
-See [bin](bin)
-
-## ZSH Config
-See [.zshrc](.zshrc)
-
-## Used Apps
-  See [app.md](app.md)
