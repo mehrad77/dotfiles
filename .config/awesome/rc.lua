@@ -149,7 +149,7 @@ mykeyboardlayout = awful.widget.keyboardlayout()
 
 -- {{{ Wibar
 -- Create a textclock widget
-mytextclock = wibox.widget.textclock("%H:%M ")
+mytextclock = wibox.widget.textclock("%Y/%m/%d %H:%M ")
 
 markup      = lain.util.markup
 darkblue    = theme.bg_focus
