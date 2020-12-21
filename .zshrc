@@ -82,3 +82,4 @@ source ~/.zsh.d/themes/powerlevel10k/powerlevel10k.zsh-theme
 precmd () { print -Pn "\e]0;/$(pwd | sed 's#.*/##') - ${USER}@${HOST%%.*}\a" }
 title() { export TITLE="$*" }
 
+source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
