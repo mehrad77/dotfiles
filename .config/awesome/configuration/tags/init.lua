@@ -19,30 +19,30 @@ local tags = {
 	},
 	{
 		type = 'code',
-		icon = icons.text_editor,
+		icon = icons.development,
 		default_app = apps.default.text_editor,
 		gap = beautiful.useless_gap
 	},
 	{
 		type = 'work',
-		icon = icons.sandbox,
+		icon = icons.menu,
 		default_app = apps.default.sandbox,
 		layout = awful.layout.suit.max,
 		gap = 0
 	},
-	{
-		type = 'files',
-		icon = icons.file_manager,
-		default_app = apps.default.file_manager,
-		gap = beautiful.useless_gap,
-		layout = awful.layout.suit.tile
-	},
+	-- {
+	-- 	type = 'files',
+	-- 	icon = icons.social,
+	-- 	default_app = apps.default.file_manager,
+	-- 	gap = beautiful.useless_gap,
+	-- 	layout = awful.layout.suit.tile
+	-- },
 	{
 		type = 'multimedia',
-		icon = icons.multimedia,
+		icon = icons.social,
 		default_app = apps.default.multimedia,
 		gap = beautiful.useless_gap,
-		layout = awful.layout.suit.floating,
+		layout = awful.layout.suit.fating,
 		gap = 0
 	},
 	-- {
@@ -60,7 +60,7 @@ local tags = {
 	-- },
 	{
 		type = 'any',
-		icon = icons.development,
+		icon = icons.paperplane,
 		default_app = apps.default.development,
 		gap = beautiful.useless_gap,
 		layout = awful.layout.suit.floating

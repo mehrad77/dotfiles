@@ -11,11 +11,11 @@ return {
 	file_manager 		= dir .. 'tag-list/' .. 'file-manager.svg',
 	multimedia 			= dir .. 'tag-list/' .. 'multimedia.svg',
 	games 				= dir .. 'tag-list/' .. 'games.svg',
-	development 		= dir .. 'tag-list/' .. 'development.svg',
+	development 		= dir .. 'tag-list/' .. 'programming.svg',
 	sandbox 			= dir .. 'tag-list/' .. 'sandbox.svg',
 	terminal 			= dir .. 'tag-list/' .. 'terminal.svg',
-	graphics 			= dir .. 'tag-list/' .. 'graphics.svg',
-	menu 				= dir .. 'tag-list/' .. 'menu.svg',
+	paperplane 			= dir .. 'tag-list/' .. 'paperplane.svg',
+	menu 				= dir .. 'tag-list/' .. 'menu2.svg',
 	close_small 		= dir .. 'tag-list/' .. 'close-small.svg',
 
 	-- Others/System UI
