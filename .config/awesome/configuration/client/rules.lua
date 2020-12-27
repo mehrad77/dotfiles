@@ -152,10 +152,8 @@ ruled.client.connect_signal(
 				class = {
 					'firefox',
 					'Tor Browser',
-					'discord',
 					'Chromium',
 					'Google-chrome',
-					'TelegramDesktop'
 				}
 			},
 			properties = {
@@ -170,12 +168,12 @@ ruled.client.connect_signal(
 				class = {
 					'Geany',
 					'Atom',
-					'Subl3',
+					'code',
 					'code-oss'
 				},
 				name  = {
-					'LibreOffice',
-					'libreoffice'
+					'CodeSpace',
+					'CodeSpace'
 				}
 			},
 			properties = {
@@ -206,7 +204,9 @@ ruled.client.connect_signal(
 			rule_any = {
 				class = {
 					'vlc',
-					'Spotify'
+					'Spotify',
+					'discord',
+					'TelegramDesktop'
 				}
 			},
 			properties = {
